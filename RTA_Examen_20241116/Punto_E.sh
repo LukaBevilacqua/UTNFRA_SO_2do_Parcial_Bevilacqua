@@ -2,7 +2,7 @@
 
 REPO_LOCAL="~/UTN-FRA_SO_Examenes/202406"
 RTA_EXAMEN="~/RTA_Examen_$(date +%Y%m%d)"
-DEST_REPO="~/UTNFRA_SO_2do_Parcial_Depaolo"
+DEST_REPO="~/UTNFRA_SO_2do_Parcial_Bevilacqua"
 
 history -a
 
